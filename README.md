@@ -1,3 +1,10 @@
+# Please bear with me, the assignement will be completed and updated by Sunday 23rd evening, EAT.
+<br> <br><br><br><br><br><br><br><br><br>
+<br> <br><br><br><br><br><br><br><br><br>
+<br> <br><br><br><br><br><br><br><br><br>
+
+
+
 # Real-Time Chat Application with Socket.io
 
 This assignment focuses on building a real-time chat application using Socket.io, implementing bidirectional communication between clients and server.
